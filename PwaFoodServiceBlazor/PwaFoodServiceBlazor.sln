@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwaFoodServiceBlazor", "PwaFoodServiceBlazor\PwaFoodServiceBlazor.csproj", "{8088497C-4933-4737-AF83-51D7EA6470EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8088497C-4933-4737-AF83-51D7EA6470EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8088497C-4933-4737-AF83-51D7EA6470EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8088497C-4933-4737-AF83-51D7EA6470EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8088497C-4933-4737-AF83-51D7EA6470EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7894C90-7027-4542-9F0C-7782D3A6E354}
+	EndGlobalSection
+EndGlobal

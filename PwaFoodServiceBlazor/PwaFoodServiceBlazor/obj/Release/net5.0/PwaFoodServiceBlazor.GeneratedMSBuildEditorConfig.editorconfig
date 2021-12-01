@@ -1,0 +1,11 @@
+is_global = true
+build_property.RefitInternalNamespace = PwaFoodServiceBlazor
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PwaFoodServiceBlazor
+build_property.ProjectDir = C:\Users\Tees\source\repos\PwaFoodServiceBlazor\PwaFoodServiceBlazor\
